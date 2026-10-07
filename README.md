@@ -397,8 +397,7 @@ protoperps/
 │           ├── constants.ts      # Program IDs, PDAs, market configs + mints
 │           └── math.ts           # formatPrice, formatCompact, PnL helpers
 ├── tests/                        # Integration tests (bankrun)
-├── Anchor.toml
-└── CLAUDE.md                     # Full project spec + build guide
+└── Anchor.toml
 ```
 
 ---
